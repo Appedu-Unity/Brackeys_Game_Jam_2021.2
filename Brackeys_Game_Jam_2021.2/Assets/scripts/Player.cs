@@ -39,14 +39,14 @@ public class Player : MonoBehaviour
     public LayerMask groundLayer;
 
     public float Xvelocity;
-    
+
     //按鍵檢測
     private bool jumpPressed;
     private bool jumpHeld;
     private bool crouchHeld;
     private bool crouchPressed;
 
-    
+
     //collider尺寸
     private Vector2 colliderStandSize;
     private Vector2 colliderStandOffset;
@@ -64,7 +64,7 @@ public class Player : MonoBehaviour
         colliderStandSize = coll.size;
         colliderStandOffset = coll.offset;
         colliderCrouchSize = new Vector2(coll.size.x, coll.size.y / 2f);
-        colliderCrouchOffset = new Vector2(coll.offset.x, coll.offset.y/ 2f);
+        colliderCrouchOffset = new Vector2(coll.offset.x, coll.offset.y / 2f);
     }
     private void Update()
     {
@@ -96,7 +96,7 @@ public class Player : MonoBehaviour
             isOnGround = true;
         else isOnGround = false;
 
-        RaycastHit2D headCheck = Raycast(new Vector2(0,0.7f- coll.size.y), Vector2.up, headClearance, groundLayer);
+        RaycastHit2D headCheck = Raycast(new Vector2(0, 0.7f - coll.size.y), Vector2.up, headClearance, groundLayer);
 
         if (headCheck)
             isHeadBlocked = true;
@@ -107,14 +107,14 @@ public class Player : MonoBehaviour
 
         RaycastHit2D blockedCheck = Raycast(new Vector2(footOffset * direction, 0.2f - playerHeight), graDir, grabDistance, groundLayer);  //頭部
         //(footOffset * direction:腳步位置，高度)，射線方向，距離，判斷碰撞圖層
-        RaycastHit2D wallCheck = Raycast(new Vector2(footOffset * direction,.2f- eyeHeight), graDir, grabDistance, groundLayer);           //眼部
-        RaycastHit2D ledgeCheck = Raycast(new Vector2(reachOffset * direction,.2f- playerHeight), Vector2.down, grabDistance, groundLayer);//眼前距離
+        RaycastHit2D wallCheck = Raycast(new Vector2(footOffset * direction, .2f - eyeHeight), graDir, grabDistance, groundLayer);           //眼部
+        RaycastHit2D ledgeCheck = Raycast(new Vector2(reachOffset * direction, .2f - playerHeight), Vector2.down, grabDistance, groundLayer);//眼前距離
 
         if (!isOnGround && rig.velocity.y < 0f && ledgeCheck && wallCheck && !blockedCheck)
         {
             Vector3 pos = transform.position;
 
-            pos.x += (wallCheck.distance-0.05f) * direction;
+            pos.x += (wallCheck.distance - 0.05f) * direction;
 
             pos.y -= ledgeCheck.distance;
 
@@ -137,7 +137,7 @@ public class Player : MonoBehaviour
             StandUp();
         Xvelocity = Input.GetAxis("Horizontal");    //1~-1X值
 
-        if (isCrouch) 
+        if (isCrouch)
             Xvelocity /= crouchSpeedDivisor;
         rig.velocity = new Vector2(Xvelocity * speed, rig.velocity.y);
         FilpDirction();
@@ -147,8 +147,10 @@ public class Player : MonoBehaviour
     /// </summary>
     private void MidAirMovement()
     {
-        if (isHanging) {
-            if (jumpPressed) {
+        if (isHanging)
+        {
+            if (jumpPressed)
+            {
                 rig.bodyType = RigidbodyType2D.Dynamic;
                 rig.velocity = new Vector2(rig.velocity.x, hangingJumpForce);
                 isHanging = false;
@@ -163,7 +165,7 @@ public class Player : MonoBehaviour
         if (jumpPressed && isOnGround && !isJump && !isHeadBlocked)       //確認按下跳躍
 
         {
-            if(isCrouch)  //下蹲跳躍
+            if (isCrouch)  //下蹲跳躍
             {
                 StandUp();  //恢復coll狀態
                 rig.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
@@ -180,19 +182,19 @@ public class Player : MonoBehaviour
         {
             if (jumpHeld)   //同時持續按住跳躍鍵
                 rig.AddForce(new Vector2(0f, jumpHoldForce), ForceMode2D.Impulse);
-            if (jumpTime < Time.time)   
+            if (jumpTime < Time.time)
                 isJump = false;
         }
     }
     /// <summary>
     /// 角色面向
     /// </summary>
-    private void FilpDirction() 
+    private void FilpDirction()
     {
         if (Xvelocity < 0)
-            transform.localScale = new Vector2(-1, 1);
+            transform.localScale = new Vector3(-1, 1, 1);
         if (Xvelocity > 0)
-            transform.localScale = new Vector2(1, 1);
+            transform.localScale = new Vector3(1, 1, 1);
     }
     /// <summary>
     /// 角色下蹲
@@ -220,7 +222,7 @@ public class Player : MonoBehaviour
 
         Color color = hit ? Color.red : Color.green;
 
-        Debug.DrawRay(pos + offset, rayDiraction * lenght , color); //線顯示
+        Debug.DrawRay(pos + offset, rayDiraction * lenght, color); //線顯示
 
         return hit; //回傳
     }

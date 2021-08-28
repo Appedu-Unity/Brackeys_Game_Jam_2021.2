@@ -3191,6 +3191,7 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 256
+  Xvelocity: 0
 --- !u!114 &1015167640
 MonoBehaviour:
   m_ObjectHideFlags: 0
