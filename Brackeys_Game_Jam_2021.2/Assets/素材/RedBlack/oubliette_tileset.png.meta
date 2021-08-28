@@ -1,0 +1,4475 @@
+fileFormatVersion: 2
+guid: d3537aa175ecfd444999fe54036e1915
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 359081348688650419
+    second: oubliette_tileset_0
+  - first:
+      213: 4201869910595032556
+    second: oubliette_tileset_1
+  - first:
+      213: -1620483591386220966
+    second: oubliette_tileset_2
+  - first:
+      213: -390613979487801693
+    second: oubliette_tileset_3
+  - first:
+      213: -614624238523872212
+    second: oubliette_tileset_4
+  - first:
+      213: -9033899788092297708
+    second: oubliette_tileset_5
+  - first:
+      213: -8139639586031447937
+    second: oubliette_tileset_6
+  - first:
+      213: 1084113936842390257
+    second: oubliette_tileset_7
+  - first:
+      213: -3479572192460854306
+    second: oubliette_tileset_8
+  - first:
+      213: 1980675349545028879
+    second: oubliette_tileset_9
+  - first:
+      213: -174139120556892144
+    second: oubliette_tileset_10
+  - first:
+      213: -6979129362434940405
+    second: oubliette_tileset_11
+  - first:
+      213: 8699237054411706458
+    second: oubliette_tileset_12
+  - first:
+      213: 4871258396271891087
+    second: oubliette_tileset_13
+  - first:
+      213: -608417707375190657
+    second: oubliette_tileset_14
+  - first:
+      213: -8292775341909473651
+    second: oubliette_tileset_15
+  - first:
+      213: 6034263994311027082
+    second: oubliette_tileset_16
+  - first:
+      213: -1312288776068670249
+    second: oubliette_tileset_17
+  - first:
+      213: -3518740839800428176
+    second: oubliette_tileset_18
+  - first:
+      213: 9195963242996962227
+    second: oubliette_tileset_19
+  - first:
+      213: -7108425901205417529
+    second: oubliette_tileset_20
+  - first:
+      213: -4402167394465770488
+    second: oubliette_tileset_21
+  - first:
+      213: 820604716591354693
+    second: oubliette_tileset_22
+  - first:
+      213: -3877873378729760403
+    second: oubliette_tileset_23
+  - first:
+      213: -3085160102466699158
+    second: oubliette_tileset_24
+  - first:
+      213: 1030031821402857287
+    second: oubliette_tileset_25
+  - first:
+      213: -555683314015055602
+    second: oubliette_tileset_26
+  - first:
+      213: -5699638579042667617
+    second: oubliette_tileset_27
+  - first:
+      213: -9061842428160960950
+    second: oubliette_tileset_28
+  - first:
+      213: -7381081829163953184
+    second: oubliette_tileset_29
+  - first:
+      213: 6051432874704442329
+    second: oubliette_tileset_30
+  - first:
+      213: 8925532292129346963
+    second: oubliette_tileset_31
+  - first:
+      213: -357814540989463758
+    second: oubliette_tileset_32
+  - first:
+      213: 4750868190389666916
+    second: oubliette_tileset_33
+  - first:
+      213: -8675952849802256909
+    second: oubliette_tileset_34
+  - first:
+      213: 975757636252597589
+    second: oubliette_tileset_35
+  - first:
+      213: -6295774664618804851
+    second: oubliette_tileset_36
+  - first:
+      213: 5008630645171415698
+    second: oubliette_tileset_37
+  - first:
+      213: -3824081763565546261
+    second: oubliette_tileset_38
+  - first:
+      213: 8349123186266633315
+    second: oubliette_tileset_39
+  - first:
+      213: -2329924558431407054
+    second: oubliette_tileset_40
+  - first:
+      213: -7666683415154017785
+    second: oubliette_tileset_41
+  - first:
+      213: 4212229419108042930
+    second: oubliette_tileset_42
+  - first:
+      213: -762447724471400116
+    second: oubliette_tileset_43
+  - first:
+      213: 1747810278770835571
+    second: oubliette_tileset_44
+  - first:
+      213: -8041111042877837480
+    second: oubliette_tileset_45
+  - first:
+      213: -762878475935099301
+    second: oubliette_tileset_46
+  - first:
+      213: 4756219459220437444
+    second: oubliette_tileset_47
+  - first:
+      213: -8993744779139287839
+    second: oubliette_tileset_48
+  - first:
+      213: -5534099072976730268
+    second: oubliette_tileset_49
+  - first:
+      213: 3510337994692258203
+    second: oubliette_tileset_50
+  - first:
+      213: 5121141622795783847
+    second: oubliette_tileset_51
+  - first:
+      213: 4523456832517429790
+    second: oubliette_tileset_52
+  - first:
+      213: 7197564136698500737
+    second: oubliette_tileset_53
+  - first:
+      213: 9072941282416285908
+    second: oubliette_tileset_54
+  - first:
+      213: -912190829838286312
+    second: oubliette_tileset_55
+  - first:
+      213: 1446002750418980940
+    second: oubliette_tileset_56
+  - first:
+      213: -7515192126843672848
+    second: oubliette_tileset_57
+  - first:
+      213: 5468023848126988431
+    second: oubliette_tileset_58
+  - first:
+      213: 7788012655892239559
+    second: oubliette_tileset_59
+  - first:
+      213: -5546306083640858588
+    second: oubliette_tileset_60
+  - first:
+      213: 7421330755736396918
+    second: oubliette_tileset_61
+  - first:
+      213: -3061670121409952114
+    second: oubliette_tileset_62
+  - first:
+      213: 3650166287919550399
+    second: oubliette_tileset_63
+  - first:
+      213: -7946557407303570326
+    second: oubliette_tileset_64
+  - first:
+      213: 142071891749474067
+    second: oubliette_tileset_65
+  - first:
+      213: 8580810211413553574
+    second: oubliette_tileset_66
+  - first:
+      213: -6869003971929545112
+    second: oubliette_tileset_67
+  - first:
+      213: -5814242005152986602
+    second: oubliette_tileset_68
+  - first:
+      213: -1883883063107641706
+    second: oubliette_tileset_69
+  - first:
+      213: -4469065130799505402
+    second: oubliette_tileset_70
+  - first:
+      213: 1938589367348084878
+    second: oubliette_tileset_71
+  - first:
+      213: 4293887219379019588
+    second: oubliette_tileset_72
+  - first:
+      213: 4421363317863639738
+    second: oubliette_tileset_73
+  - first:
+      213: -8949290808361500223
+    second: oubliette_tileset_74
+  - first:
+      213: -2542875204941932502
+    second: oubliette_tileset_75
+  - first:
+      213: -919085187623772266
+    second: oubliette_tileset_76
+  - first:
+      213: -6096982958055606074
+    second: oubliette_tileset_77
+  - first:
+      213: 7850928502627804546
+    second: oubliette_tileset_78
+  - first:
+      213: 5848708831792711765
+    second: oubliette_tileset_79
+  - first:
+      213: 6192020170792499115
+    second: oubliette_tileset_80
+  - first:
+      213: 8611882620822622181
+    second: oubliette_tileset_81
+  - first:
+      213: 6295945850654242079
+    second: oubliette_tileset_82
+  - first:
+      213: 2961111891691869907
+    second: oubliette_tileset_83
+  - first:
+      213: -4722292629394665308
+    second: oubliette_tileset_84
+  - first:
+      213: 5169526107209876736
+    second: oubliette_tileset_85
+  - first:
+      213: -2018447092104313132
+    second: oubliette_tileset_86
+  - first:
+      213: 4157844170810773441
+    second: oubliette_tileset_87
+  - first:
+      213: -2489211641244067883
+    second: oubliette_tileset_88
+  - first:
+      213: -3622628682650052431
+    second: oubliette_tileset_89
+  - first:
+      213: 1424380447868733151
+    second: oubliette_tileset_90
+  - first:
+      213: 8927745235257555276
+    second: oubliette_tileset_91
+  - first:
+      213: -2042379515801133012
+    second: oubliette_tileset_92
+  - first:
+      213: 9197797600040100915
+    second: oubliette_tileset_93
+  - first:
+      213: -5367913054325549210
+    second: oubliette_tileset_94
+  - first:
+      213: -7667628951683754036
+    second: oubliette_tileset_95
+  - first:
+      213: 4014171611739661191
+    second: oubliette_tileset_96
+  - first:
+      213: 7578459397927009238
+    second: oubliette_tileset_97
+  - first:
+      213: -2353450203545168656
+    second: oubliette_tileset_98
+  - first:
+      213: 2827240440492584153
+    second: oubliette_tileset_99
+  - first:
+      213: -9191590152389903750
+    second: oubliette_tileset_100
+  - first:
+      213: -3860089163959336280
+    second: oubliette_tileset_101
+  - first:
+      213: 3670458736637617445
+    second: oubliette_tileset_102
+  - first:
+      213: 3615726622937563330
+    second: oubliette_tileset_103
+  - first:
+      213: 1672031168990214506
+    second: oubliette_tileset_104
+  - first:
+      213: 9122960646800734040
+    second: oubliette_tileset_105
+  - first:
+      213: -2951310247001063139
+    second: oubliette_tileset_106
+  - first:
+      213: 7123199438712331146
+    second: oubliette_tileset_107
+  - first:
+      213: 1261754079624755124
+    second: oubliette_tileset_108
+  - first:
+      213: -1522011047290156566
+    second: oubliette_tileset_109
+  - first:
+      213: -7775578964221289173
+    second: oubliette_tileset_110
+  - first:
+      213: 4055783791499348017
+    second: oubliette_tileset_111
+  - first:
+      213: 8110345298560989729
+    second: oubliette_tileset_112
+  - first:
+      213: -6665297901762812168
+    second: oubliette_tileset_113
+  - first:
+      213: 8463823966585704463
+    second: oubliette_tileset_114
+  - first:
+      213: 4887557977683310076
+    second: oubliette_tileset_115
+  - first:
+      213: 8291064081327739662
+    second: oubliette_tileset_116
+  - first:
+      213: -3162631865450878285
+    second: oubliette_tileset_117
+  - first:
+      213: -7985190104207614254
+    second: oubliette_tileset_118
+  - first:
+      213: 3537091359485799667
+    second: oubliette_tileset_119
+  - first:
+      213: -1542107856821413478
+    second: oubliette_tileset_120
+  - first:
+      213: -8779478813156483219
+    second: oubliette_tileset_121
+  - first:
+      213: -1358931063387388333
+    second: oubliette_tileset_122
+  - first:
+      213: 2184654801450850313
+    second: oubliette_tileset_123
+  - first:
+      213: -2338885092070665614
+    second: oubliette_tileset_124
+  - first:
+      213: -5388879680796910048
+    second: oubliette_tileset_125
+  - first:
+      213: 5190548706822138949
+    second: oubliette_tileset_126
+  - first:
+      213: -5272316107430634292
+    second: oubliette_tileset_127
+  - first:
+      213: 3041865160102700247
+    second: oubliette_tileset_128
+  - first:
+      213: 2490889627096612444
+    second: oubliette_tileset_129
+  - first:
+      213: -1073020561338138534
+    second: oubliette_tileset_130
+  - first:
+      213: 8801294198599624764
+    second: oubliette_tileset_131
+  - first:
+      213: 8250563194656814042
+    second: oubliette_tileset_132
+  - first:
+      213: -6712922281520990312
+    second: oubliette_tileset_133
+  - first:
+      213: 4539258127940014299
+    second: oubliette_tileset_134
+  - first:
+      213: 7261482878509060545
+    second: oubliette_tileset_135
+  - first:
+      213: -3174664611935786072
+    second: oubliette_tileset_136
+  - first:
+      213: -5465449489677890238
+    second: oubliette_tileset_137
+  - first:
+      213: -265423249201522351
+    second: oubliette_tileset_138
+  - first:
+      213: 1204481558510029992
+    second: oubliette_tileset_139
+  - first:
+      213: -1279813964032190809
+    second: oubliette_tileset_140
+  - first:
+      213: 2043399432534756312
+    second: oubliette_tileset_141
+  - first:
+      213: -4217647180500296546
+    second: oubliette_tileset_142
+  - first:
+      213: 6534900222317348267
+    second: oubliette_tileset_143
+  - first:
+      213: -3938770840794661354
+    second: oubliette_tileset_144
+  - first:
+      213: -3136027268899026822
+    second: oubliette_tileset_145
+  - first:
+      213: 8349714476932172675
+    second: oubliette_tileset_146
+  - first:
+      213: -3976771678567752307
+    second: oubliette_tileset_147
+  - first:
+      213: 5900071288261603750
+    second: oubliette_tileset_148
+  - first:
+      213: 7699985765223111453
+    second: oubliette_tileset_149
+  - first:
+      213: -5283952917173234454
+    second: oubliette_tileset_150
+  - first:
+      213: 5523322320622370157
+    second: oubliette_tileset_151
+  - first:
+      213: -4802899173326032107
+    second: oubliette_tileset_152
+  - first:
+      213: 273120941912300852
+    second: oubliette_tileset_153
+  - first:
+      213: 7602461308454834312
+    second: oubliette_tileset_154
+  - first:
+      213: 8133828760229544071
+    second: oubliette_tileset_155
+  - first:
+      213: 2639277419119642959
+    second: oubliette_tileset_156
+  - first:
+      213: 2347817040516027453
+    second: oubliette_tileset_157
+  - first:
+      213: 2756838521369503665
+    second: oubliette_tileset_158
+  - first:
+      213: 7541115278638143172
+    second: oubliette_tileset_159
+  - first:
+      213: -229767026410530278
+    second: oubliette_tileset_160
+  - first:
+      213: -8949335230682065846
+    second: oubliette_tileset_161
+  - first:
+      213: -4836712887048555046
+    second: oubliette_tileset_162
+  - first:
+      213: 7103896459710727260
+    second: oubliette_tileset_163
+  - first:
+      213: -5530566207244148757
+    second: oubliette_tileset_164
+  - first:
+      213: 1128293260507697937
+    second: oubliette_tileset_165
+  - first:
+      213: 4510409071586309958
+    second: oubliette_tileset_166
+  - first:
+      213: 3571356010488402703
+    second: oubliette_tileset_167
+  - first:
+      213: -5886269653108569890
+    second: oubliette_tileset_168
+  - first:
+      213: 6297118897386896910
+    second: oubliette_tileset_169
+  - first:
+      213: -8294967450199089675
+    second: oubliette_tileset_170
+  - first:
+      213: -2902747920508656676
+    second: oubliette_tileset_171
+  - first:
+      213: 1723613743867689399
+    second: oubliette_tileset_172
+  - first:
+      213: 4049962109057296956
+    second: oubliette_tileset_173
+  - first:
+      213: 890232130479643271
+    second: oubliette_tileset_174
+  - first:
+      213: -134877101347580443
+    second: oubliette_tileset_175
+  - first:
+      213: 3875037656823637320
+    second: oubliette_tileset_176
+  - first:
+      213: -3455990745066321907
+    second: oubliette_tileset_177
+  - first:
+      213: -3374936447302365020
+    second: oubliette_tileset_178
+  - first:
+      213: 7516981175958280403
+    second: oubliette_tileset_179
+  - first:
+      213: 5852161012644696887
+    second: oubliette_tileset_180
+  - first:
+      213: 3251423688309315188
+    second: oubliette_tileset_181
+  - first:
+      213: -8891064369885006201
+    second: oubliette_tileset_182
+  - first:
+      213: 1676182495643020689
+    second: oubliette_tileset_183
+  - first:
+      213: -5798982416461895641
+    second: oubliette_tileset_184
+  - first:
+      213: -8879039157671396031
+    second: oubliette_tileset_185
+  - first:
+      213: 3669239284371427879
+    second: oubliette_tileset_186
+  - first:
+      213: -4173566544267732985
+    second: oubliette_tileset_187
+  - first:
+      213: -8866493073176893106
+    second: oubliette_tileset_188
+  - first:
+      213: -8577622422597401274
+    second: oubliette_tileset_189
+  - first:
+      213: -5579479642353034978
+    second: oubliette_tileset_190
+  - first:
+      213: 4170329717476387084
+    second: oubliette_tileset_191
+  - first:
+      213: 3187884428728301599
+    second: oubliette_tileset_192
+  - first:
+      213: 996451958019145931
+    second: oubliette_tileset_193
+  - first:
+      213: -5310596881946849721
+    second: oubliette_tileset_194
+  - first:
+      213: 3001984998457196337
+    second: oubliette_tileset_195
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oubliette_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b02e0a8596bbf400800000000000000
+      internalID: 359081348688650419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce55b65db6a005a30800000000000000
+      internalID: 4201869910595032556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56331362c2e289e0800000000000000
+      internalID: -1620483591386220966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aee35cb7a2449af0800000000000000
+      internalID: -390613979487801693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c8070f28a6877f0800000000000000
+      internalID: -614624238523872212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e2842a10421a280800000000000000
+      internalID: -9033899788092297708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7053e21ce03a0f80800000000000000
+      internalID: -8139639586031447937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa7a85b1eb8b0f00800000000000000
+      internalID: 1084113936842390257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb2b0ac68316bfc0800000000000000
+      internalID: -3479572192460854306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d01018cb5cc7b10800000000000000
+      internalID: 1980675349545028879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01025b97465559df0800000000000000
+      internalID: -174139120556892144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02219662d6252f90800000000000000
+      internalID: -6979129362434940405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50102da206e9b870800000000000000
+      internalID: 8699237054411706458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 119
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82dceec3bf2a9340800000000000000
+      internalID: 4871258396271891087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d18d491577e87f0800000000000000
+      internalID: -608417707375190657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d860e5773c42aec80800000000000000
+      internalID: -8292775341909473651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89a6d5c1230eb350800000000000000
+      internalID: 6034263994311027082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcd1bb9f40d9cde0800000000000000
+      internalID: -1312288776068670249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079290b69dbea2fc0800000000000000
+      internalID: -3518740839800428176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b31262e8df9e9f70800000000000000
+      internalID: 9195963242996962227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1177e0e4cc95d90800000000000000
+      internalID: -7108425901205417529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8049f03141c58e2c0800000000000000
+      internalID: -4402167394465770488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543107954af536b00800000000000000
+      internalID: 820604716591354693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d696ed835b60f2ac0800000000000000
+      internalID: -3877873378729760403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60c3419b3f4f25d0800000000000000
+      internalID: -3085160102466699158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fd016fb786b4e00800000000000000
+      internalID: 1030031821402857287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01558458f0d948f0800000000000000
+      internalID: -555683314015055602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93bc0c09e0d6e0b0800000000000000
+      internalID: -5699638579042667617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4617e2c25edd3280800000000000000
+      internalID: -9061842428160960950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 101
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3979ade21219990800000000000000
+      internalID: -7381081829163953184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 101
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d311ee33220bf350800000000000000
+      internalID: 6051432874704442329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 101
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395d5a7845cdddb70800000000000000
+      internalID: 8925532292129346963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 101
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2338adc1299c80bf0800000000000000
+      internalID: -357814540989463758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 101
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd9f7ba9d2d89780800000000000000
+      internalID: -8675952849802256909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 101
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55df5bf76669a8d00800000000000000
+      internalID: 975757636252597589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 101
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89fd798c4ae0a8a0800000000000000
+      internalID: -6295774664618804851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 101
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ae390f80b328540800000000000000
+      internalID: 5008630645171415698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_38
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 101
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be450aa95e12eeac0800000000000000
+      internalID: -3824081763565546261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 101
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36476676d4b0ed370800000000000000
+      internalID: 8349123186266633315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_40
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 101
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234bc3565f17aafd0800000000000000
+      internalID: -2329924558431407054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_41
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 101
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abd52cd087a9590800000000000000
+      internalID: -7666683415154017785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8826ed658d47a30800000000000000
+      internalID: 4212229419108042930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49c31f85dd3b65f0800000000000000
+      internalID: -762447724471400116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37089e03038714810800000000000000
+      internalID: 1747810278770835571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_45
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fabc13c1c386090800000000000000
+      internalID: -8041111042877837480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_46
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56d81b6116b965f0800000000000000
+      internalID: -762878475935099301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4f0e636cccf2380800000000000000
+      internalID: -8993744779139287839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467476bc63ee233b0800000000000000
+      internalID: -5534099072976730268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99603fbec937b030800000000000000
+      internalID: 3510337994692258203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aec5374c23f11740800000000000000
+      internalID: 5121141622795783847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_52
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ad30bd50c86ce30800000000000000
+      internalID: 4523456832517429790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_53
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1865100b272e2e360800000000000000
+      internalID: 7197564136698500737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_54
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8566e960099ed70800000000000000
+      internalID: 9072941282416285908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_55
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812ce14f54f3753f0800000000000000
+      internalID: -912190829838286312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4016fa17db311410800000000000000
+      internalID: 1446002750418980940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6abace39ca4b790800000000000000
+      internalID: -7515192126843672848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_58
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8049f218b252eb40800000000000000
+      internalID: 5468023848126988431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_59
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c414b47f34941c60800000000000000
+      internalID: 7788012655892239559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_60
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 81
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428aff4a0009703b0800000000000000
+      internalID: -5546306083640858588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_62
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86cee9fe33c285d0800000000000000
+      internalID: -3061670121409952114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf0d8246eef7a230800000000000000
+      internalID: 3650166287919550399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_64
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ceb66042828b190800000000000000
+      internalID: -7946557407303570326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6006c9011f0baf1c0800000000000000
+      internalID: -4469065130799505402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 74
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1c1f7dc6bbdc380800000000000000
+      internalID: -8949290808361500223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_75
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 74
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28994d4974e5bcd0800000000000000
+      internalID: -2542875204941932502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_76
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 74
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f9c5134e0ce33f0800000000000000
+      internalID: -919085187623772266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_77
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 74
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c83c778d4a236ba0800000000000000
+      internalID: -6096982958055606074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_78
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 74
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285ae1c80e914fc60800000000000000
+      internalID: 7850928502627804546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558c1b9d1b9ca2150800000000000000
+      internalID: 5848708831792711765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_80
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7f322e9897ee550800000000000000
+      internalID: 6192020170792499115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_81
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef0e7dad9d838770800000000000000
+      internalID: 8611882620822622181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_82
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f153751d461bf5750800000000000000
+      internalID: 6295945850654242079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_83
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d69a7ca39bf71920800000000000000
+      internalID: 2961111891691869907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a05c739fdb077eb0800000000000000
+      internalID: -4722292629394665308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_88
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 65
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d751e0633b847dd0800000000000000
+      internalID: -2489211641244067883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_89
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 65
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b890891866d9bdc0800000000000000
+      internalID: -3622628682650052431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_90
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 65
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd64a3c787a64c310800000000000000
+      internalID: 1424380447868733151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_91
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 65
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4976b08df8b5eb70800000000000000
+      internalID: 8927745235257555276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_92
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 65
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20a320c6a208a3e0800000000000000
+      internalID: -2042379515801133012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_93
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 65
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334a45a6f2425af70800000000000000
+      internalID: 9197797600040100915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_94
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 65
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6675ebb74875185b0800000000000000
+      internalID: -5367913054325549210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_95
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 65
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc79361e71c179590800000000000000
+      internalID: -7667628951683754036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_96
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 65
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783233910d335b730800000000000000
+      internalID: 4014171611739661191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_97
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 65
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbf8268ba81c2960800000000000000
+      internalID: 7578459397927009238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f49e1d428dd65fd0800000000000000
+      internalID: -2353450203545168656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_102
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525a30826c610f230800000000000000
+      internalID: 3670458736637617445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_103
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0cd15e434ad2230800000000000000
+      internalID: 3615726622937563330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_104
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69fa094d7f343710800000000000000
+      internalID: 1672031168990214506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_105
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857fc6c6f544b9e70800000000000000
+      internalID: 9122960646800734040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_106
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11088197f6da07d0800000000000000
+      internalID: -2951310247001063139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_107
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bd5b03620bad260800000000000000
+      internalID: 7123199438712331146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_108
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7feed76a6a28110800000000000000
+      internalID: 1261754079624755124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_109
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9cc06340bb0eae0800000000000000
+      internalID: -1522011047290156566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_110
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d179af028971490800000000000000
+      internalID: -7775578964221289173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_111
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1380b12bed9094830800000000000000
+      internalID: 4055783791499348017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12abc7e141cbd8070800000000000000
+      internalID: 8110345298560989729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_113
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f665436fda1083a0800000000000000
+      internalID: -6665297901762812168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_114
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0057c9ed0b857570800000000000000
+      internalID: 8463823966585704463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_115
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5b0f6d51814d340800000000000000
+      internalID: 4887557977683310076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_116
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e035a81aad6cf0370800000000000000
+      internalID: 8291064081327739662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_117
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba287023131c14d0800000000000000
+      internalID: -3162631865450878285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_118
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de9db658e7ee2190800000000000000
+      internalID: -7985190104207614254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_119
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc2144e9d5461130800000000000000
+      internalID: 3537091359485799667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_120
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9912dc1315599ae0800000000000000
+      internalID: -1542107856821413478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f5dbcf886092680800000000000000
+      internalID: -8779478813156483219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_122
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3560d84d56b142de0800000000000000
+      internalID: -1358931063387388333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_123
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908545597f3715e10800000000000000
+      internalID: 2184654801450850313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_124
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272dba4966c9a8fd0800000000000000
+      internalID: -2338885092070665614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_125
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e97c85b7ad635b0800000000000000
+      internalID: -5388879680796910048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c2f735c88880840800000000000000
+      internalID: 5190548706822138949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_127
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccd6092f68f4d6b0800000000000000
+      internalID: -5272316107430634292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_128
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4ee822f30e63a20800000000000000
+      internalID: 3041865160102700247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_129
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e7cc52bea619220800000000000000
+      internalID: 2490889627096612444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_130
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5000cc0c7ddb11f0800000000000000
+      internalID: -1073020561338138534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_131
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38ac3f317a742a70800000000000000
+      internalID: 8801294198599624764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_132
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad37e6e1383ef7270800000000000000
+      internalID: 8250563194656814042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_133
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897f22560c8e6d2a0800000000000000
+      internalID: -6712922281520990312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_134
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd05ba3a73faefe30800000000000000
+      internalID: 4539258127940014299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_135
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c11d1c7438f5c460800000000000000
+      internalID: 7261482878509060545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_136
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab60940b5351f3d0800000000000000
+      internalID: -3174664611935786072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_137
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dc8e575a2d624b0800000000000000
+      internalID: -5465449489677890238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_138
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159963c06f6015cf0800000000000000
+      internalID: -265423249201522351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_139
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8accf79889d27b010800000000000000
+      internalID: 1204481558510029992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6d64ffaff2d3ee0800000000000000
+      internalID: -1279813964032190809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_141
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db087e15fc9b5c10800000000000000
+      internalID: 2043399432534756312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_142
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c1a524c38e775c0800000000000000
+      internalID: -4217647180500296546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_143
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5c8d9f021a0ba50800000000000000
+      internalID: 6534900222317348267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_144
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e74cee9cca659c0800000000000000
+      internalID: -3938770840794661354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_145
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78c55770d79a74d0800000000000000
+      internalID: -3136027268899026822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_146
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b8a7df31520e370800000000000000
+      internalID: 8349714476932172675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_147
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d922a6a3bafc8c0800000000000000
+      internalID: -3976771678567752307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_148
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a17056a39341e150800000000000000
+      internalID: 5900071288261603750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_149
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b10b7d148dbda60800000000000000
+      internalID: 7699985765223111453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_150
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4100241d0aba6b0800000000000000
+      internalID: -5283952917173234454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_151
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dbea40368c6ac40800000000000000
+      internalID: 5523322320622370157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_152
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51372e116aca85db0800000000000000
+      internalID: -4802899173326032107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_153
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d1763bc025ac300800000000000000
+      internalID: 273120941912300852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8801a1dc74e518960800000000000000
+      internalID: 7602461308454834312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_155
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780865d992a21e070800000000000000
+      internalID: 8133828760229544071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_156
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49065644d890a420800000000000000
+      internalID: 2639277419119642959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_157
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d341199b82f159020800000000000000
+      internalID: 2347817040516027453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_158
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7a7516702424620800000000000000
+      internalID: 2756838521369503665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_159
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c65f71346c67a860800000000000000
+      internalID: 7541115278638143172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_160
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ad3b95b14bfccf0800000000000000
+      internalID: -229767026410530278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_161
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a449e47f5039dc380800000000000000
+      internalID: -8949335230682065846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_162
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5bae6514b80ecb0800000000000000
+      internalID: -4836712887048555046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_163
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54863a213c169260800000000000000
+      internalID: 7103896459710727260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_164
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befde62365b7f33b0800000000000000
+      internalID: -5530566207244148757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_165
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11357031eb088af00800000000000000
+      internalID: 1128293260507697937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_166
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647f9974721389e30800000000000000
+      internalID: 4510409071586309958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_167
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f031e93ae51009130800000000000000
+      internalID: 3571356010488402703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed84d42ffe4cf4ea0800000000000000
+      internalID: -5886269653108569890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_169
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e352b064cd36750800000000000000
+      internalID: 6297118897386896910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_170
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd947b7d0b52ec80800000000000000
+      internalID: -8294967450199089675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_171
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3e39d452e57b7d0800000000000000
+      internalID: -2902747920508656676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_172
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9f63561918be710800000000000000
+      internalID: 1723613743867689399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_173
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ae620a41b543830800000000000000
+      internalID: 4049962109057296956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_174
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ad0e0f76dba5c00800000000000000
+      internalID: 890232130479643271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_175
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5d7ddadf1d02ef0800000000000000
+      internalID: -134877101347580443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_176
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8452c32d736e6c530800000000000000
+      internalID: 3875037656823637320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_177
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08c84d5abad900d0800000000000000
+      internalID: -3455990745066321907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_178
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0160fae21d921d0800000000000000
+      internalID: -3374936447302365020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_179
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d89a488d8ea15860800000000000000
+      internalID: 7516981175958280403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_180
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733d3175f6d073150800000000000000
+      internalID: 5852161012644696887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_181
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47697f32e906f1d20800000000000000
+      internalID: 3251423688309315188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7863fddff089c9480800000000000000
+      internalID: -8891064369885006201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_183
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19da787591ff24710800000000000000
+      internalID: 1676182495643020689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_184
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7286d007730e58fa0800000000000000
+      internalID: -5798982416461895641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_185
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d7634ede057c480800000000000000
+      internalID: -8879039157671396031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_186
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7221edc40b1cbe230800000000000000
+      internalID: 3669239284371427879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_187
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708977a27538416c0800000000000000
+      internalID: -4173566544267732985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_188
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4964d1d683e3f480800000000000000
+      internalID: -8866493073176893106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_189
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64508a35ad926f880800000000000000
+      internalID: -8577622422597401274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_190
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19160e93d4b192b0800000000000000
+      internalID: -5579479642353034978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_191
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c096f6e58ccffd930800000000000000
+      internalID: 4170329717476387084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_192
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18795f6ff3ad3c20800000000000000
+      internalID: 3187884428728301599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_193
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc04971c6cb14dd00800000000000000
+      internalID: 996451958019145931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_194
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ec24ac548fc46b0800000000000000
+      internalID: -5310596881946849721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oubliette_tileset_195
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fb71e637139a920800000000000000
+      internalID: 3001984998457196337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
