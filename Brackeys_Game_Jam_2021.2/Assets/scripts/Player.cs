@@ -1,10 +1,24 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
     private Rigidbody2D rig;
     private BoxCollider2D coll;
     private AudioSource aud;
+    int trapsLayer;
+
+    [Header("玩家")]
+    public GameObject pl;
+
+    [Header("特效物件")]
+    public GameObject deathVFXPrefab;
+
+    [Header("音效")]
+    public AudioClip jump;
+    public AudioClip eat;
+    public AudioClip die;
+    public AudioClip Teleport;
 
     [Header("移動速度")]
     public float speed = 5f;                //正常
@@ -59,7 +73,9 @@ public class Player : MonoBehaviour
     {
         rig = GetComponent<Rigidbody2D>();
         coll = GetComponent<BoxCollider2D>();
-        aud = GetComponent< AudioSource >();
+        aud = GetComponent<AudioSource>();
+
+        trapsLayer = LayerMask.NameToLayer("Trap");
 
         playerHeight = coll.size.y;
 
@@ -70,6 +86,8 @@ public class Player : MonoBehaviour
     }
     private void Update()
     {
+        
+
         jumpPressed = Input.GetButtonDown("Jump");
         jumpHeld = Input.GetButton("Jump");
         crouchHeld = Input.GetButton("Crouch");
@@ -153,7 +171,7 @@ public class Player : MonoBehaviour
         {
             if (jumpPressed)
             {
-                
+                aud.PlayOneShot(jump, Random.Range(0.3f, 0.5f));
                 rig.bodyType = RigidbodyType2D.Dynamic;
                 rig.velocity = new Vector2(rig.velocity.x, hangingJumpForce);
                 isHanging = false;
@@ -168,6 +186,7 @@ public class Player : MonoBehaviour
         if (jumpPressed && isOnGround && !isJump && !isHeadBlocked)       //確認按下跳躍
 
         {
+            aud.PlayOneShot(jump, Random.Range(0.3f, 0.5f));
             if (isCrouch)  //下蹲跳躍
             {
                 StandUp();  //恢復coll狀態
@@ -183,6 +202,7 @@ public class Player : MonoBehaviour
         }
         else if (isJump)
         {
+            aud.PlayOneShot(jump, Random.Range(0.3f, 0.5f));
             if (jumpHeld)   //同時持續按住跳躍鍵
                 rig.AddForce(new Vector2(0f, jumpHoldForce), ForceMode2D.Impulse);
             if (jumpTime < Time.time)
@@ -229,4 +249,49 @@ public class Player : MonoBehaviour
 
         return hit; //回傳
     }
+    public void Dead(string obj)
+    {
+        if (obj == "死亡區域" )
+        {
+            aud.PlayOneShot(die, Random.Range(0.3f, 0.5f));
+            enabled = false;
+            Invoke("Replay", 2.5f);
+            //gm.PlayerDead();
+        }
+        if (obj == "傳送門")                      // 如果 在門裡面 並且 按下 W
+        {
+            aud.PlayOneShot(Teleport, Random.Range(0.3f, 0.5f));
+            int lvIndex = SceneManager.GetActiveScene().buildIndex;     // 取得當前場景的編號
+
+            lvIndex++;                                                  // 編號加一
+
+            SceneManager.LoadScene(lvIndex);                            // 載入下一關
+        }
+    }
+    
+
+    public bool inDoor;
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.name == "傳送門") inDoor = true;
+        aud.PlayOneShot(Teleport, Random.Range(0.3f, 0.5f));
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.name == "傳送門") inDoor = false;
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        aud.PlayOneShot(die, Random.Range(0.3f, 0.5f));
+        Dead(collision.gameObject.tag);
+    }
+    private void Replay()
+    {
+        // 載入場景(當前場景 的 名稱)
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+
 }

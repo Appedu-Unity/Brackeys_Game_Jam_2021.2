@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - "\u6B7B\u4EA1\u5340\u57DF"
+  - "\u50B3\u9001\u9580"
   layers:
   - Default
   - TransparentFX
@@ -15,9 +17,9 @@ TagManager:
   - 
   - Ground
   - Player
-  - 
-  - 
-  - 
+  - Trap
+  - objs
+  - end
   - 
   - 
   - 
