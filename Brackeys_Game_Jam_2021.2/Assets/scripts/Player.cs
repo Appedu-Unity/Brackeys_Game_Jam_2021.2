@@ -4,6 +4,7 @@ public class Player : MonoBehaviour
 {
     private Rigidbody2D rig;
     private BoxCollider2D coll;
+    private AudioSource aud;
 
     [Header("移動速度")]
     public float speed = 5f;                //正常
@@ -58,6 +59,7 @@ public class Player : MonoBehaviour
     {
         rig = GetComponent<Rigidbody2D>();
         coll = GetComponent<BoxCollider2D>();
+        aud = GetComponent< AudioSource >();
 
         playerHeight = coll.size.y;
 
@@ -151,6 +153,7 @@ public class Player : MonoBehaviour
         {
             if (jumpPressed)
             {
+                
                 rig.bodyType = RigidbodyType2D.Dynamic;
                 rig.velocity = new Vector2(rig.velocity.x, hangingJumpForce);
                 isHanging = false;
